@@ -1,0 +1,21 @@
+#Z 
+feed 5
+bend 45
+feed 25
+bend 135
+feed 10
+bend -90
+rotate 17
+feed 3
+bend -90
+feed 20
+bend -90
+rotate 10
+feed 7
+bend -45
+feed 23
+bend 45
+rotate -20
+feed 1
+bend 90
+feed 13

@@ -1,0 +1,15 @@
+#R Lowercase
+feed 5
+bend 90
+feed 5
+bend -90
+feed 15
+bend 90
+feed 15
+bend -90
+rotate 15
+feed 3
+bend -90
+feed 24
+bend 90
+feed 5

@@ -1,0 +1,24 @@
+#G
+feed 5
+bend 90
+feed 5
+bend -90
+feed 7
+bend 90
+feed 10
+bend 90
+feed 7
+rotate -20
+bend 90
+feed 5
+bend -90
+rotate 15
+feed 2
+bend -90
+feed 10
+rotate 10
+bend -90
+feed 20
+bend -90
+feed 25
+bend 90

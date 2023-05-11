@@ -1,0 +1,12 @@
+#O
+feed 20
+bend 90
+rotate -10
+feed 25
+bend 90
+feed 15
+bend 90
+rotate -10
+feed 25
+bend 90
+feed 25

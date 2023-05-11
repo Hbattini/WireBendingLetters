@@ -1,0 +1,16 @@
+#K
+
+feed 5
+bend 90
+feed 3 
+bend -45
+feed 10
+bend 90
+feed 10
+bend -135
+rotate 18
+feed 15
+bend -90
+feed 25
+bend 90
+feed 5

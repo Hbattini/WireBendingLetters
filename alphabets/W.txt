@@ -1,0 +1,21 @@
+#W
+feed 5
+bend 75
+feed 30
+bend -75
+rotate 17
+feed 1
+bend -75
+feed 15
+bend 75
+rotate -17
+feed 1
+bend 75
+feed 15
+bend -75
+rotate 17
+feed 1
+bend -75
+feed 30
+bend 75
+feed 5

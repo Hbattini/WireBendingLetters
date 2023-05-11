@@ -1,0 +1,23 @@
+#X
+bend 50
+feed 15
+bend 75
+feed 15
+bend -125
+rotate 15
+feed 5
+bend -60
+rotate 10
+feed 15
+bend 110
+feed 15
+bend -55
+rotate 15
+feed 5
+bend -125
+feed 15
+bend 55
+feed 15
+bend 75
+rotate -10
+feed 5
